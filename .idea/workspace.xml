@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="34" selection-start="199" selection-end="199" vertical-scroll-proportion="0.11889036" vertical-offset="0" max-vertical-offset="780">
+            <state line="6" column="34" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="21" selection-start="425" selection-end="425" vertical-scroll-proportion="0.17833553" vertical-offset="60" max-vertical-offset="1050">
               <folding />
             </state>
           </provider>
@@ -95,15 +104,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form_tag_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p545/gems/actionpack-4.0.4/lib/action_view/helpers/form_tag_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="37" selection-start="2803" selection-end="2807" vertical-scroll-proportion="0.0" vertical-offset="457" max-vertical-offset="11865">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,7 +124,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app/views/users/_form.html.erb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/feedbacks/thankyou.html.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20141213102537_feedback.rb" />
         <option value="$PROJECT_DIR$/app/models/feedback.rb" />
@@ -132,6 +131,7 @@
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/controllers/feedbacks_controller.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
       </list>
     </option>
   </component>
@@ -645,13 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="59" selection-start="185" selection-end="200" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p545/gems/actionpack-4.0.4/lib/action_view/helpers/form_tag_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="37" selection-start="2803" selection-end="2807" vertical-scroll-proportion="0.0" vertical-offset="457" max-vertical-offset="11865">
@@ -717,7 +710,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="199" selection-end="199" vertical-scroll-proportion="0.11889036" vertical-offset="0" max-vertical-offset="780">
+        <state line="6" column="34" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="21" selection-start="425" selection-end="425" vertical-scroll-proportion="0.17833553" vertical-offset="60" max-vertical-offset="1050">
           <folding />
         </state>
       </provider>
