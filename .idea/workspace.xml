@@ -26,7 +26,7 @@
       <file leaf-file-name="feedbacks_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/feedbacks_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="61" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+            <state line="5" column="12" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
@@ -35,16 +35,16 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="34" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+            <state line="6" column="20" selection-start="180" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="21" selection-start="425" selection-end="425" vertical-scroll-proportion="0.17833553" vertical-offset="60" max-vertical-offset="1050">
+            <state line="1" column="18" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="20141213102537_feedback.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20141213102537_feedback.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+            <state line="4" column="23" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="feedback.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/feedback.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+            <state line="1" column="17" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
               <folding />
             </state>
           </provider>
@@ -71,16 +71,16 @@
       <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20141213090524_create_users.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="20141213090524_create_users.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/migrate/20141213090524_create_users.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="61" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="11" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.24962178" vertical-offset="0" max-vertical-offset="661">
               <folding />
             </state>
           </provider>
@@ -89,7 +89,7 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/feedbacks/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="26" selection-start="668" selection-end="668" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="510">
+            <state line="3" column="12" selection-start="42" selection-end="50" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -127,18 +127,18 @@
         <option value="$PROJECT_DIR$/app/views/feedbacks/thankyou.html.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20141213102537_feedback.rb" />
         <option value="$PROJECT_DIR$/app/models/feedback.rb" />
-        <option value="$PROJECT_DIR$/app/views/feedbacks/new.html.erb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/controllers/feedbacks_controller.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/views/feedbacks/new.html.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="874" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -182,6 +182,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="feedbackapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feedbackapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feedbackapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feedbackapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feedbackapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -556,8 +588,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="778" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -659,27 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20141213090524_create_users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="61" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20141213102537_feedback.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/feedback.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/feedbacks/thankyou.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
@@ -687,37 +698,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/feedbacks/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="26" selection-start="668" selection-end="668" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/feedbacks_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="61" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+        <state line="6" column="20" selection-start="180" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="425" selection-end="425" vertical-scroll-proportion="0.17833553" vertical-offset="60" max-vertical-offset="1050">
+        <state line="1" column="18" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/feedbacks/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="42" selection-end="50" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/feedbacks_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="12" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/feedback.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="17" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="757">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20141213102537_feedback.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="23" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20141213090524_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.24962178" vertical-offset="0" max-vertical-offset="661">
           <folding />
         </state>
       </provider>
